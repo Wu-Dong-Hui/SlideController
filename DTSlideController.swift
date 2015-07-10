@@ -132,7 +132,6 @@ class DTSlideController: UIViewController {
 //        mainView.addGestureRecognizer(tapGesture)
 //        distance = self.view.center.x * (FullDistance * 2 + Proportion - 1)
         showHome()
-        
     }
     // 展示左视图
     func showLeftMenu() {
